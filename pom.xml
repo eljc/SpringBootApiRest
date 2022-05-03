@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>br.com.eljc</groupId>
-	<artifactId>demo</artifactId>
+	<artifactId>SpringBootApiRest</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
+	<name>SpringBootApiRest</name>
 	<description>Spring Boot API REST</description>
 	<properties>
 		<java.version>1.8</java.version>
